@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I’m software developer at Intertech. Intertech has created more than 100 products. These products are used by over 40 financial institutions in 10 different countries. At Intertech I am responsible for maintenance, development and support of three products.
+
+I'm currently working with C# and SQL, but I have a great passion for Swift. (iOS Development) I'm working with great determination to continue the rest of my career in this field. The reason I chose this field as my career goal is because I have been an iOS user for many years and therefore I know what an iOS user wants in an App. The best way to develop an application is to know what is expected of the application. I have a very high belief that I can successfully do a job where I understand the basic structural dynamics.
+
+My professional skills include:
+
+ - Agile Project Management
+ - Group Communication Skills
+ - Prone to Team Work
+ - Quick Learner and Self-improving
+
 **You can connect me via**
 
 <a href="https://www.linkedin.com/in/miracdogan/">
