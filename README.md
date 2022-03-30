@@ -17,9 +17,6 @@ My professional skills include:
 <a href="https://twitter.com/miracdev">
   <img align="left" alt="Mirac's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/mirac.dogan">
-  <img align="left" alt="Mirac's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <br />
 <br />
 
