@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Mirac
 
 I’m software developer at Intertech. Intertech has created more than 100 products. These products are used by over 40 financial institutions in 10 different countries. At Intertech I am responsible for maintenance, development and support of products.
 
@@ -9,33 +9,32 @@ My professional skills include:
  - Prone to Team Work
  - Quick Learner and Self-improving
 
+
+🌱 I’m currently learning **Swift**
+
+
 **You can connect me via**
 
-<a href="https://www.linkedin.com/in/miracdogan/">
-  <img align="left" alt="Mirac's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/miracdev">
-  <img align="left" alt="Mirac's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<br />
+<p align="left">
+<a href="https://linkedin.com/in/miracdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miracdogan" height="30" width="40"/> </a>
+<a href="https://twitter.com/miracdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miracdev" height="30" width="40" /></a>
+</p>
 <br />
 
 **Languages**
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+</p>
+
 
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<p align="left"> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+</p>
 
-**IDEs/Editors**
-
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=miracdogan&show_icons=true&" alt="miracdogan" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=miracdogan&show_icons=true&" alt="miracdogan" />
