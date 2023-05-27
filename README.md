@@ -10,7 +10,7 @@ My professional skills include:
  - Quick Learner and Self-improving
 
 
-🌱 I’m currently learning **Swift**
+🌱 I’m currently learning **React**
 
 
 **You can connect me via**
