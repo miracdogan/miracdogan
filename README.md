@@ -12,15 +12,6 @@ My professional skills include:
 
 🌱 I’m currently learning **React**
 
-
-**You can connect me via**
-
-<p align="left">
-<a href="https://linkedin.com/in/miracdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miracdogan" height="30" width="40"/> </a>
-<a href="https://twitter.com/miracdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miracdev" height="30" width="40" /></a>
-</p>
-<br />
-
 **Languages**
 
 <p align="left">
