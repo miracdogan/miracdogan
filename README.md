@@ -2,7 +2,7 @@
 
 I’m software engineer. I'm currently developing things at [Intertech](https://www.linkedin.com/company/intertechteyasam/).
 
-I’m currently learning **React**
+I’m currently learning **JavaScript & React**
 
 **Languages**
 
